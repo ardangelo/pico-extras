@@ -6,7 +6,6 @@
 
 #include "pico.h"
 
-#include "pico/stdlib.h"
 #include "pico/sleep.h"
 
 #include "hardware/rtc.h"
